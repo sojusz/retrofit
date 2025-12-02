@@ -1,24 +1,24 @@
 {
     "pytania": [
         {
-            "tresc": "",
-            "odp1": "",
-            "odp2": "",
-            "odp3": "",
+            "tresc": "Jaki kolor ma mlecz?",
+            "odp1": "Zielony",
+            "odp2": "Zółty",
+            "odp3": "Czerwony",
             "odp": 2
         },
         {
-            "tresc": "",
-            "odp1": "",
-            "odp2": "",
-            "odp3": "",
+            "tresc": "Jaki kolor ma niezapominajka?",
+            "odp1": "Niebieski",
+            "odp2": "Zółty",
+            "odp3": "Fioletowy",
             "odp": 1
         },
         {
-            "tresc": "",
-            "odp1": "",
-            "odp2": "",
-            "odp3": "",
+            "tresc": "Jaki kolor ma stokrotka?",
+            "odp1": "Czarny",
+            "odp2": "Szary",
+            "odp3": "Biały",
             "odp": 3
         }
     ]
